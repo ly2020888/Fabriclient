@@ -6,13 +6,13 @@ import (
 )
 
 const (
-	programName = "tape"
+	programName = "tape++"
 )
 
 var (
 	Version   string = "latest"
 	CommitSHA string = "development build"
-	BuiltTime string = "Mon Dec 21 19:00:00 2020"
+	BuiltTime string = "Sat Nov 11 15:00:00 2023"
 )
 
 // GetVersionInfo return version information

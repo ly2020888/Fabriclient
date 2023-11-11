@@ -5,8 +5,9 @@ go 1.16
 require (
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751 // indirect
 	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137 // indirect
+	github.com/gin-gonic/gin v1.9.1
 	github.com/gogo/protobuf v1.2.1
-	github.com/golang/protobuf v1.4.2
+	github.com/golang/protobuf v1.5.0
 	github.com/hyperledger/fabric-protos-go v0.0.0-20200424173316-dd554ba3746e
 	github.com/hyperledger/fabric-sdk-go v1.0.0-beta1.0.20200317135226-e71412ff3db1
 	github.com/onsi/ginkgo v1.13.0
